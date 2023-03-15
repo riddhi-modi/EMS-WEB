@@ -24,6 +24,12 @@ Login Page: <br/>
 <img src="https://i.imgur.com/N6iFrYq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ 
+Dashboard: <br/>
+<img src="https://i.imgur.com/IkWOqvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
 </p>
 
 <!--
