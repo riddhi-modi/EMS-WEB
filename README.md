@@ -51,7 +51,7 @@ Edit Employee's Details: <br/>
 <br />
  
 Delete Employee's Details: <br/>
-<img src="https://i.imgur.com/yEbFRHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LNpJflp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
