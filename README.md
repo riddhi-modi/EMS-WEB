@@ -17,7 +17,7 @@ Employee Management System consisting of EMPLOYEES and JOBS module. This demo We
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Web Application walk-through:</h2>
 
 <p align="center">
 Login Page: <br/>
@@ -29,6 +29,17 @@ Dashboard: <br/>
 <img src="https://i.imgur.com/IkWOqvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ 
+Employees Page: <br/>
+<img src="https://i.imgur.com/nnZmj3e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
+View Individual Employee's Details: <br/>
+<img src="https://i.imgur.com/PVNpaCX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
  
 </p>
 
