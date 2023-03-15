@@ -40,7 +40,25 @@ View Individual Employee's Details: <br/>
 <br />
 <br />
  
+Add New Employee: <br/>
+<img src="https://i.imgur.com/3tMmnhS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Edit Employee's Details: <br/>
+<img src="https://i.imgur.com/yEbFRHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
  
+Delete Employee's Details: <br/>
+<img src="https://i.imgur.com/yEbFRHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+Job Listings: <br/>
+<img src="https://i.imgur.com/qqQMz2o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
